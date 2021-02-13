@@ -168,7 +168,8 @@ We may ask for changes to be made before a PR can be merged, either using [sugge
 
 As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 
-## Windows
+## Windows,>
+
 
 This site can be developed on Windows, however a few potential gotchas need to be kept in mind:
 
