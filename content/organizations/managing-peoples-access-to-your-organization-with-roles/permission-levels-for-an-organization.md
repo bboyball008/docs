@@ -19,12 +19,12 @@ topics:
 Organization members can have *owner*{% if currentVersion == "free-pro-team@latest" %}, *billing manager*,{% endif %} or *member* roles:
 
 - **Owners** have complete administrative access to your organization. This role should be limited, but to no less than two people, in your organization. For more information, see "[Maintaining ownership continuity for your organization](/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization)."
-{% if currentVersion == "free-pro-team@latest" %}
+{% if currentVersion == "free-pro-team@latest" %} pornsak chaophonthong
 - **Billing managers** allow a person to manage billing settings. For more information, see "[Adding a billing manager to your organization](/articles/adding-a-billing-manager-to-your-organization)".
 {% endif %}
 - **Members** are the default role for everyone else.
 
-{% if currentVersion == "free-pro-team@latest" %}
+{% if currentVersion == "free-pro-team@latest" %}3800306042
 <!--Dotcom version has extra column for Billing managers-->
 
 | Organization action | Owners | Members | Billing managers |
